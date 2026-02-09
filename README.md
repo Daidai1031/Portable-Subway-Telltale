@@ -206,10 +206,6 @@ PORTABLE SUBWAY TELLTALE/
 │ └── (Photos)
 │
 ├── icons/
-
-https://github.com/user-attachments/assets/8ac28769-66c0-47b8-8ea0-7734a4bb45d9
-
-
 │ ├── subway_grey.png
 │ ├── subway_blue.png
 │ ├── subway_orange.png
