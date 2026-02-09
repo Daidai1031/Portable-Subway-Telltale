@@ -55,6 +55,10 @@ Two on-board buttons allow interaction:
 
 The **selected direction** determines the main visual state of the device, while the other direction is de-emphasized.
 
+<p align="left">
+  <img src="assets/arrive.jpg" width="45%" />
+  <img src="assets/gonow_2.jpg" width="45%" />
+</p>
 
 
 
