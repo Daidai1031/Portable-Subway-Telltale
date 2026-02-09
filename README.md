@@ -3,9 +3,13 @@
 A **keychain-sized ambient subway telltale** that provides calm, glanceable information about upcoming subway arrivals at **Roosevelt Island (NYC)**.  Designed as a small, always-with-you object, the device helps users decide *when to leave*, without opening a phone app.
 
 
+
 Built with **ESP32-S2 Feather + CircuitPython**  
 Course project: *Interactive Devices / Ubiquitous Computing*
 
+<p align="left">
+  <img src="assets/outcome.jpg" width="750">
+</p>
 
 
 ## ✨ Concept
@@ -50,6 +54,7 @@ Two on-board buttons allow interaction:
 - **D2** → select *To Queens*
 
 The **selected direction** determines the main visual state of the device, while the other direction is de-emphasized.
+
 
 
 
@@ -129,8 +134,7 @@ A clockwise flow of pixel blocks around the screen:
 - adafruit_imageload
 - Custom sprite animations
 
-## 🖨 Physical Design & Fabrication
-
+## [🖨 Physical Design & Fabrication](Portable-Subway-Telltale/3D_print_model/)
 
 
 ### Enclosure Design
@@ -174,6 +178,9 @@ A clockwise flow of pixel blocks around the screen:
 - Integrated display
 - Ideal for keychain-scale devices
 
+<p align="left">
+  <img src="assets/user.jpg" width="600">
+</p>
 
 ## 📁 Repository Structure
 ```
@@ -208,10 +215,8 @@ PORTABLE SUBWAY TELLTALE/
 
 ## 🔮 Future Work
 
-- Shrink enclosure into a true keychain form factor
 - Add vibration or subtle audio cues
 - Support bus or ferry arrival data
-- Adaptive thresholds based on walking speed or time of day
 
 ---
 
