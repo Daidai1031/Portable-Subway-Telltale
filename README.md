@@ -8,8 +8,9 @@ Built with **ESP32-S2 Feather + CircuitPython**
 Course project: *Interactive Devices / Ubiquitous Computing*
 
 <p align="left">
-  <img src="assets/outcome.jpg" width="750">
+  <img src="assets/outcome.jpg" height="500" style="margin-right:20px;">
 </p>
+
 
 
 ## ✨ Concept
@@ -187,7 +188,7 @@ A clockwise flow of pixel blocks around the screen:
 - Ideal for keychain-scale devices
 
 <p align="left">
-  <img src="assets/user.jpg" width="600">
+  <img src="assets/user.jpg" height="600">
 </p>
 
 ## 📁 Repository Structure
