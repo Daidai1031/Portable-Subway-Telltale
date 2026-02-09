@@ -1,0 +1,16 @@
+# Python / CircuitPython
+__pycache__/
+*.pyc
+.env
+
+# CircuitPython
+CIRCUITPY/
+*.mpy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
