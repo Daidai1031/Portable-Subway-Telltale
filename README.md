@@ -163,6 +163,10 @@ A clockwise flow of pixel blocks around the screen:
   - cleaner typography
   - improved fit
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7d5e16f6-8002-4220-ab24-621bf1cb34ab" width="300" controls></video>
+</p>
+
 ### Printing
 - Printer: **Bambu X1C**
 - Material: **PLA**
@@ -201,6 +205,10 @@ PORTABLE SUBWAY TELLTALE/
 │ └── (Photos)
 │
 ├── icons/
+
+https://github.com/user-attachments/assets/8ac28769-66c0-47b8-8ea0-7734a4bb45d9
+
+
 │ ├── subway_grey.png
 │ ├── subway_blue.png
 │ ├── subway_orange.png
@@ -229,3 +237,11 @@ PORTABLE SUBWAY TELLTALE/
 **Dingran Dai**  
 Cornell Tech — MSIS (Urban Tech)  
 Interactive Devices / Ubiquitous Computing
+
+
+
+
+
+
+
+
