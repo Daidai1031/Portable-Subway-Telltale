@@ -28,6 +28,11 @@ The interface prioritizes:
 
 
 
+<p align="left">
+  <img src="assets/user.jpg" height="500">
+</p>
+
+
 ## 📍 Location & Context
 
 - **Station:** Roosevelt Island (B06)
@@ -164,15 +169,15 @@ A clockwise flow of pixel blocks around the screen:
   - cleaner typography
   - improved fit
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/7d5e16f6-8002-4220-ab24-621bf1cb34ab" width="300" controls></video>
-</p>
-
 ### Printing
 - Printer: **Bambu X1C**
 - Material: **PLA**
 - Profile: `0.12mm Fine @BBL X1C`
 - Print time: ~**38 minutes**
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7d5e16f6-8002-4220-ab24-621bf1cb34ab" width="300" controls></video>
+</p>
 
 ##  Why a Keychain?
 
@@ -187,9 +192,6 @@ A clockwise flow of pixel blocks around the screen:
 - Integrated display
 - Ideal for keychain-scale devices
 
-<p align="left">
-  <img src="assets/user.jpg" height="600">
-</p>
 
 ## 📁 Repository Structure
 ```
@@ -226,6 +228,8 @@ PORTABLE SUBWAY TELLTALE/
 
 - Add vibration or subtle audio cues
 - Support bus or ferry arrival data
+
+<img width="432" height="592" alt="Telltale Brighter Shot" src="https://github.com/user-attachments/assets/ed0af9a9-f210-437c-b788-a73ba6b33ec3" />
 
 ---
 
