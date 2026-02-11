@@ -104,6 +104,13 @@ The interface uses multiple reinforcing cues:
 - **WAIT:** Grey  
 - **GO NOW:** Blue (`#3236A6`)  
 - **ARRIVE:** Orange (`#FF6319`)
+<p align="left">
+  <img width="32" height="32" alt="subway_grey" src="https://github.com/user-attachments/assets/2271a3c0-9ca7-4e6d-940f-663e586db8c9" />
+  <img width="32" height="32" alt="subway_blue" src="https://github.com/user-attachments/assets/ef352b44-2a2b-416b-ad89-43c636b4774d" />
+  <img width="32" height="32" alt="subway_orange" src="https://github.com/user-attachments/assets/c2ede7be-4ce7-480d-bb40-116290e462a4" />
+</p>
+
+
 
 ### Status Text
 Large, bold text under the animation:
@@ -114,9 +121,14 @@ Large, bold text under the animation:
 ### Pixel Animations
 | State   | Animation |
 |--------|-----------|
-| WAIT   | Coffee cup steaming |
-| GO     | Walking figure |
-| ARRIVE | Moving subway train |
+| WAIT   | ![微信图片_20260210223718_435_392](https://github.com/user-attachments/assets/62650493-31cd-47c0-a839-bb79c4cef94c)|
+| GO     | ![微信图片_20260210223715_433_392](https://github.com/user-attachments/assets/d5dfe893-e173-4325-8e65-72724a18f478)|
+| ARRIVE | ![微信图片_20260210223717_434_392](https://github.com/user-attachments/assets/80168633-2df8-4215-aeb0-14793f1d7b60)|
+
+
+
+
+
 
 ### Direction Indicators
 - Selected direction: filled colored dot + bright text
