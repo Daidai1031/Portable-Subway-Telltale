@@ -227,17 +227,12 @@ PORTABLE SUBWAY TELLTALE/
 ## 🔮 Future Work
 
 - Add vibration or subtle audio cues
-- Support bus or ferry arrival data
+- Support Red bus or ferry arrival data
+- Revise fabrication: button cap..
 
 <img width="432" height="592" alt="Telltale Brighter Shot" src="https://github.com/user-attachments/assets/ed0af9a9-f210-437c-b788-a73ba6b33ec3" />
 
----
 
-## 👋 Author
-
-**Dingran Dai**  
-Cornell Tech — MSIS (Urban Tech)  
-Interactive Devices / Ubiquitous Computing
 
 
 
