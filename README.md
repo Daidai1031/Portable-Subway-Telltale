@@ -19,7 +19,7 @@ Living on **Roosevelt Island**, I often face a recurring question before leaving
 
 **Do I need to rush to the subway now, or do I still have time?**
 
-Instead of opening a transit app, this telltale provides ambient, peripheral feedback. It is designed to live near the door—and in a future iteration, as a **portable keychain-sized device**.
+Instead of opening a transit app, this telltale provides ambient, peripheral feedback. It is designed as a **portable keychain-sized device** in pocket.
 
 The interface prioritizes:
 - Glanceability (1-second understanding)
