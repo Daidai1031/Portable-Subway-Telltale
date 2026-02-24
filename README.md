@@ -11,7 +11,8 @@ Course project: *Interactive Devices / Ubiquitous Computing*
   <img src="assets/outcome.jpg" height="500" style="margin-right:20px;">
 </p>
 
-
+### 🎬 video
+[![Watch on YouTube](https://img.youtube.com/vi/XSXFaUAvX7s/hqdefault.jpg)](https://youtu.be/XSXFaUAvX7s)
 
 ## ✨ Concept
 
